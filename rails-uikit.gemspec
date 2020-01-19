@@ -6,7 +6,7 @@ require 'rails-uikit/version'
 Gem::Specification.new do |spec|
   spec.name          = "rails-uikit"
   spec.version       = RailsUikit::VERSION
-  spec.authors       = ["Nicolas Bettenburg"]
+  spec.authors       = ["André Perdigão"]
   spec.description   = "UIKit3 for Ruby on Rails"
   spec.summary       = ""
   spec.homepage      = "https://github.com/uikit/uikit"
