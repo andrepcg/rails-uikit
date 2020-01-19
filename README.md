@@ -5,7 +5,7 @@
 Add rails-uikit to your `Gemfile`:
 
 ```ruby
-gem "rails-uikit", git: 'git://github.com/nicbet/rails-uikit.git'
+gem "rails-uikit", git: 'git://github.com/andrepcg/rails-uikit.git'
 
 
 ```
